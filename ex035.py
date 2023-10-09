@@ -1,5 +1,6 @@
 #LER TRES COMPRIMENTOS
 #DIZER SE PODE FORMAR UM TRIÂNGULO COM ESSES COMPRIMENTOS
+#TESTANDO O GITHUB
 m1 = str(input('Informe a primeira medida:\n')).strip()
 m1 = float(m1)
 m2 = str(input('Informe a segunda medida:\n')).strip()
