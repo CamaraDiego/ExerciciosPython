@@ -24,3 +24,5 @@ elif pag == 3:
 elif pag == 4:
     preco = preco * 1.20
     print('O preço final do produto é de R${:.2f}.'.format(preco))
+else:
+    print('Opção de pagamento inválida.')
