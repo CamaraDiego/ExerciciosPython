@@ -3,6 +3,12 @@
 #OUTRA CHAMADA SOMAPAR QUE VAI SOMAR TODOS OS VALORES PARES
 
 def sorteia(a):
+    """
+    SORTEAMENTO DE 5 NÚMEROS ALEATÓRIOS ENTRE 0 E 100,
+    EXIBE EM TELA OS NÚMEROS SORTEADOS E INSERE SEUS VALORES EM UMA LISTA
+    :param a: lista onde serão inseridos os números sorteados
+    :return:
+    """
     from random import randint
     from time import sleep
     print('-' * 45)
